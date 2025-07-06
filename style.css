@@ -24,14 +24,16 @@ body {
     width: 90%;
     max-width: 500px;
     margin-bottom: 20px;
+    padding: 0px 15px;
 }
 
 #inputArea {
-    width: 100%; /* responsive */
+    width: 100%; 
     max-width: 400px;
     height: 200px;
     font-size: x-large;
     box-sizing: border-box;
+    
 }
 
 #startTime {
